@@ -1,5 +1,9 @@
 # Cyberware Reflash (RU / EN)
 
+**AI-assisted development:** This mod was developed with OpenAI Codex (AI assistance for code, UI, translations and documentation). See the validation notes for what has and has not been tested.
+
+**Разработка с использованием ИИ:** мод разработан с помощью OpenAI Codex. ИИ использовался для кода, интерфейса, переводов и документации. Выполненные и неподтверждённые проверки перечислены ниже.
+
 Customize secondary cyberware bonuses at existing quickhack vendors through an in-game wizard.
 
 **Experimental alpha.** The vendor interaction, wizard UI and calculated limits have been seen in game. Actual bonus replacement, payment/refund, save reload and automatic English selection still require live verification. Do not treat a successful compile as a complete gameplay test.

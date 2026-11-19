@@ -1,5 +1,7 @@
 # Cyberware Reflash — 0.1.0 RU/EN test build
 
+**AI-assisted development:** This mod was developed with OpenAI Codex (AI assistance for code, UI, translations and documentation). See the validation notes for what has and has not been tested.
+
 Requires Cyber Engine Tweaks, redscript and Codeware. Developed for the installed Cyberpunk 2077 2.5 mod collection.
 
 Look at a quickhack vendor from within 3.2 metres and select **Cyberware reflash**. Select equipped cyberware, then an existing secondary bonus. Improving that bonus is the default; choosing a replacement stat is optional. Search and categories help navigate the 36 supported stats.

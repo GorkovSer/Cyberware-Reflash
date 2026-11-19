@@ -1,0 +1,326 @@
+[
+  {
+    "stat": "ItemArmorModifierHelper",
+    "label": "Броня",
+    "unit": "",
+    "scale": 1,
+    "minimum": 1.5,
+    "maximum": 7.5,
+    "labelEN": "Armor"
+  },
+  {
+    "stat": "CritChanceBonusModifierHelper",
+    "label": "Вероятность критического попадания",
+    "unit": "%",
+    "scale": 1,
+    "minimum": 0.200000003,
+    "maximum": 1.0,
+    "labelEN": "Crit Chance"
+  },
+  {
+    "stat": "MitigationChanceModifierHelper",
+    "label": "Вероятность поглощения урона",
+    "unit": "%",
+    "scale": 1,
+    "minimum": 0.200000003,
+    "maximum": 1.0,
+    "labelEN": "Mitigation Chance"
+  },
+  {
+    "stat": "GrenadesChargesRegenMultModifierHelper",
+    "label": "Восстановление гранат",
+    "unit": "%",
+    "scale": 100,
+    "minimum": 0.00999999978,
+    "maximum": 0.0500000007,
+    "labelEN": "Grenade Recharge Speed"
+  },
+  {
+    "stat": "RamOnKillModifierHelper",
+    "label": "Восстановление памяти за убийство",
+    "unit": "",
+    "scale": 1,
+    "minimum": 0.0500000007,
+    "maximum": 0.25,
+    "labelEN": "RAM Recovery on Kill"
+  },
+  {
+    "stat": "HealingItemsChargesRegenMultModifierHelper",
+    "label": "Восстановление предметов лечения",
+    "unit": "%",
+    "scale": 100,
+    "minimum": 0.00600000005,
+    "maximum": 0.0299999993,
+    "labelEN": "Health Item Recharge Speed"
+  },
+  {
+    "stat": "CarryCapacityModifierHelper",
+    "label": "Грузоподъёмность",
+    "unit": "кг",
+    "scale": 1,
+    "minimum": 5.0,
+    "maximum": 25.0,
+    "labelEN": "Carrying Capacity"
+  },
+  {
+    "stat": "HealthModifierHelper",
+    "label": "Здоровье",
+    "unit": "",
+    "scale": 1,
+    "minimum": 1.0,
+    "maximum": 5.0,
+    "labelEN": "Health"
+  },
+  {
+    "stat": "CritDamageBonusModifierHelper",
+    "label": "Критический урон",
+    "unit": "%",
+    "scale": 1,
+    "minimum": 0.5,
+    "maximum": 2.5,
+    "labelEN": "Crit Damage"
+  },
+  {
+    "stat": "HealOnKillingBleedingTargetModifierHelper",
+    "label": "Лечение за убийство истекающего кровью врага",
+    "unit": "",
+    "scale": 1,
+    "minimum": 1.5,
+    "maximum": 7.5,
+    "labelEN": "Health on Killing a Bleeding Enemy"
+  },
+  {
+    "stat": "DamageOverTimePercentBonusModifierHelper",
+    "label": "Периодический урон",
+    "unit": "%",
+    "scale": 100,
+    "minimum": 0.00999999978,
+    "maximum": 0.0500000007,
+    "labelEN": "Damage over Time"
+  },
+  {
+    "stat": "MitigationStrengthModifierHelper",
+    "label": "Сила поглощения урона",
+    "unit": "%",
+    "scale": 1,
+    "minimum": 0.200000003,
+    "maximum": 1.0,
+    "labelEN": "Mitigation Strength"
+  },
+  {
+    "stat": "HealthGeneralRegenRateMultModifierHelper",
+    "label": "Скорость восстановления здоровья",
+    "unit": "%",
+    "scale": 100,
+    "minimum": 0.00499999989,
+    "maximum": 0.0250000004,
+    "labelEN": "Health Regeneration Rate"
+  },
+  {
+    "stat": "ReloadSpeedPercentBonusModifierHelper",
+    "label": "Скорость перезарядки",
+    "unit": "%",
+    "scale": 100,
+    "minimum": 0.00700000022,
+    "maximum": 0.0350000001,
+    "labelEN": "Reload Speed"
+  },
+  {
+    "stat": "ADSSpeedPercentBonusModifierHelper",
+    "label": "Скорость прицеливания",
+    "unit": "%",
+    "scale": 100,
+    "minimum": 0.0199999996,
+    "maximum": 0.100000001,
+    "labelEN": "Aim Speed"
+  },
+  {
+    "stat": "VisibilityReductionModifierHelper",
+    "label": "Снижение заметности",
+    "unit": "%",
+    "scale": 100,
+    "minimum": 0.00499999989,
+    "maximum": 0.075000003,
+    "labelEN": "Visibility Reduction"
+  },
+  {
+    "stat": "RecoilPercentBonusModifierHelper",
+    "label": "Снижение отдачи",
+    "unit": "%",
+    "scale": 100,
+    "minimum": 0.00999999978,
+    "maximum": 0.0500000007,
+    "labelEN": "Recoil Reduction"
+  },
+  {
+    "stat": "DodgeStaminaCostReductionModifierHelper",
+    "label": "Снижение расхода выносливости на уклонение",
+    "unit": "%",
+    "scale": 100,
+    "minimum": 0.0149999997,
+    "maximum": 0.075000003,
+    "labelEN": "Dodge Stamina Cost Reduction"
+  },
+  {
+    "stat": "PercentDamageReductionFromPoisonedEnemiesModifierHelper",
+    "label": "Снижение урона от отравленных врагов",
+    "unit": "%",
+    "scale": 100,
+    "minimum": 0.00999999978,
+    "maximum": 0.0500000007,
+    "labelEN": "Damage Reduction from Poisoned Enemies"
+  },
+  {
+    "stat": "ExplosionResistanceModifierHelper",
+    "label": "Сопротивление взрывам",
+    "unit": "%",
+    "scale": 1,
+    "minimum": 0.25,
+    "maximum": 1.25,
+    "labelEN": "Explosion Resistance"
+  },
+  {
+    "stat": "DamageOverTimeResistanceModifierHelper",
+    "label": "Сопротивление периодическому урону",
+    "unit": "%",
+    "scale": 1,
+    "minimum": 0.800000012,
+    "maximum": 4.0,
+    "labelEN": "Damage over Time Resistance"
+  },
+  {
+    "stat": "MeleeResistanceModifierHelper",
+    "label": "Сопротивление урону в ближнем бою",
+    "unit": "%",
+    "scale": 1,
+    "minimum": 0.800000012,
+    "maximum": 4.0,
+    "labelEN": "Melee Damage Resistance"
+  },
+  {
+    "stat": "ThermalDamagePercentBonusModifierHelper",
+    "label": "Термический урон",
+    "unit": "%",
+    "scale": 100,
+    "minimum": 0.00999999978,
+    "maximum": 0.0500000007,
+    "labelEN": "Thermal Damage"
+  },
+  {
+    "stat": "MeleeDamagePercentBonusModifierHelper",
+    "label": "Урон в ближнем бою",
+    "unit": "%",
+    "scale": 100,
+    "minimum": 0.00999999978,
+    "maximum": 0.0500000007,
+    "labelEN": "Melee Damage"
+  },
+  {
+    "stat": "ExplosionDamagePercentBonusModifierHelper",
+    "label": "Урон взрывов",
+    "unit": "%",
+    "scale": 100,
+    "minimum": 0.00999999978,
+    "maximum": 0.0500000007,
+    "labelEN": "Explosion Damage"
+  },
+  {
+    "stat": "BonusPercentDamageToEnemiesAtFullHealthModifierHelper",
+    "label": "Урон по врагам с полным здоровьем",
+    "unit": "%",
+    "scale": 100,
+    "minimum": 0.00999999978,
+    "maximum": 0.0500000007,
+    "labelEN": "Damage to Enemies at Full Health"
+  },
+  {
+    "stat": "BonusPercentDamageToEnemiesBelowHalfHealthModifierHelper",
+    "label": "Урон по врагам со здоровьем ниже 50%",
+    "unit": "%",
+    "scale": 100,
+    "minimum": 0.00999999978,
+    "maximum": 0.0500000007,
+    "labelEN": "Damage to Enemies below 50% Health"
+  },
+  {
+    "stat": "BonusPercentDamageVsBurningEnemiesModifierHelper",
+    "label": "Урон по горящим врагам",
+    "unit": "%",
+    "scale": 100,
+    "minimum": 0.00999999978,
+    "maximum": 0.0500000007,
+    "labelEN": "Damage to Burning Enemies"
+  },
+  {
+    "stat": "HeadshotDamageMultiplierModifierHelper",
+    "label": "Урон при попадании в голову",
+    "unit": "%",
+    "scale": 100,
+    "minimum": 0.00999999978,
+    "maximum": 0.0500000007,
+    "labelEN": "Headshot Damage Multiplier"
+  },
+  {
+    "stat": "BonusRicochetDamageModifierHelper",
+    "label": "Урон рикошетов",
+    "unit": "%",
+    "scale": 1,
+    "minimum": 0.5,
+    "maximum": 2.5,
+    "labelEN": "Ricochet Damage"
+  },
+  {
+    "stat": "BonusQuickHackDamageModifierHelper",
+    "label": "Урон скриптов",
+    "unit": "%",
+    "scale": 100,
+    "minimum": 0.00800000038,
+    "maximum": 0.0399999991,
+    "labelEN": "Quickhack Damage"
+  },
+  {
+    "stat": "StealthHitDamageBonusModifierHelper",
+    "label": "Урон скрытных атак",
+    "unit": "",
+    "scale": 1,
+    "minimum": 2.0,
+    "maximum": 10.0,
+    "labelEN": "Stealth Attack Damage"
+  },
+  {
+    "stat": "ChemicalDamagePercentBonusModifierHelper",
+    "label": "Химический урон",
+    "unit": "%",
+    "scale": 100,
+    "minimum": 0.00999999978,
+    "maximum": 0.0500000007,
+    "labelEN": "Chemical Damage"
+  },
+  {
+    "stat": "BonusCritChanceVsElectrocutedEnemiesModifierHelper",
+    "label": "Шанс крита по электризованным врагам",
+    "unit": "%",
+    "scale": 1,
+    "minimum": 1.0,
+    "maximum": 5.0,
+    "labelEN": "Crit Chance against Electrocuted Enemies"
+  },
+  {
+    "stat": "ElectricDamagePercentBonusModifierHelper",
+    "label": "Электрический урон",
+    "unit": "%",
+    "scale": 100,
+    "minimum": 0.00999999978,
+    "maximum": 0.0500000007,
+    "labelEN": "Electrical Damage"
+  },
+  {
+    "stat": "HealingItemsEffectPercentBonusModifierHelper",
+    "label": "Эффективность предметов лечения",
+    "unit": "%",
+    "scale": 100,
+    "minimum": 0.00499999989,
+    "maximum": 0.0250000004,
+    "labelEN": "Health Item Effectiveness"
+  }
+]

@@ -4,13 +4,23 @@
 
 Requires Cyber Engine Tweaks, redscript and Codeware. Developed for the installed Cyberpunk 2077 2.5 mod collection.
 
-Look at a quickhack vendor from within 3.2 metres and select **Cyberware reflash**. Select equipped cyberware, then an existing secondary bonus. Improving that bonus is the default; choosing a replacement stat is optional. Search and categories help navigate the 36 supported stats.
+## Where to reflash cyberware
+
+1. Find a **quickhack vendor (netrunner)**: an NPC who sells combat quickhacks for your cyberdeck.
+2. Stand within **3.2 metres** and look at the vendor.
+3. Select **Cyberware reflash** under **NETRUNNER SERVICES** in the interaction list. You do not need to open the trading menu.
+4. Choose equipped cyberware and one of its existing secondary bonuses. Improving that bonus is the default; replacing its stat is optional.
+5. Set the value, review both costs and confirm.
+
+If the option is missing, close the trading menu, look at the vendor and scroll through the interaction choices.
+
+## Features
 
 Normal and overclock limits are shown before confirmation. Exact values, +/- controls and maximum presets are available. Overclocking is limited to 120% of the normal maximum. The number of bonuses stays unchanged and duplicate stats are blocked.
 
 Payment requires **both eddies and quickhack components**. Two icon cards show the cost and available balance. Confirmation is blocked when either balance is insufficient. T1 cyberware uses T2 quickhack components; T5, T5+ and T5++ use T5 components.
 
-The nominal tariff uses tier bases 15/30/60/90/120 and an operation fee of 5. It grows quadratically up to the normal maximum, then reaches 3x at 110% and 8x at 120%. Improving the same stat charges the tariff difference plus the fee. T5+ and T5++ have 15% and 35% surcharges. Eddies cost 180 times the nominal tariff; components cost one tenth of the nominal tariff, rounded up. For example, nominal tariff 725 costs **73 components + 130,500 eddies**.
+The price depends on cyberware quality, the selected stat and upgrade strength. Improving the current bonus is generally cheaper than replacing it. Overclocking above the normal maximum costs substantially more. Both eddies and component costs are shown before confirmation.
 
 Language follows the game's on-screen language setting (Russian or English). The service interaction, UI, messages and all 36 stat labels are translated. Cyberware names use the game's own localization. Close and reopen the service after changing the language.
 

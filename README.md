@@ -10,6 +10,12 @@ Customize secondary cyberware bonuses at existing quickhack vendors through an i
 
 [Download the test build](https://github.com/GorkovSer/Cyberware-Reflash/releases) · [Русское руководство](README-RU.md) · [English guide](README-EN.md) · [Validation status](docs/TESTING.md)
 
+## Where to use it
+
+Visit a **quickhack vendor / netrunner** (an NPC selling combat quickhacks). Stand within **3.2 metres**, look at the vendor and choose **NETRUNNER SERVICES → Cyberware reflash** in the interaction list. Keep the trading menu closed. Choose equipped cyberware, select an existing bonus, set a value and review both costs before confirming.
+
+**Где перепрошить:** у **продавца скриптов (нетраннера)**. Подойди на расстояние до 3,2 м, посмотри на NPC и выбери **«Услуги нетраннера → Перепрошивка имплантов»** в списке взаимодействий. Меню торговли должно быть закрыто. Затем выбери имплант, бонус и значение; проверь цену и подтверди.
+
 ## Features
 
 - Improve an existing bonus or replace its stat, without adding bonus slots.
@@ -41,7 +47,7 @@ The build uses only Python's standard library. Logic tests run the actual Lua fu
 
 Мод добавляет услугу перепрошивки дополнительных бонусов имплантов у продавцов скриптов. Можно усилить имеющийся бонус или заменить его на другую характеристику. Оплата берётся деньгами и компонентами скриптов; доступны разгон до 120% и интерфейс RU/EN.
 
-Это тестовая альфа: отображение интерфейса и пределов подтверждено, а фактическое применение, оплата и загрузка сохранения ещё требуют проверки в игре. Полная инструкция и текущая формула цены — в [README-RU.md](README-RU.md).
+Это тестовая альфа: отображение интерфейса и пределов подтверждено, а фактическое применение, оплата и загрузка сохранения ещё требуют проверки в игре. Полная инструкция — в [README-RU.md](README-RU.md).
 
 ## Credits
 
